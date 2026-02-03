@@ -1,6 +1,8 @@
 # "Sea Battle" on Windows Forms
 Classic "Sea Battle" game on Windows Forms with Enemy bot.
 
+🎥 <a href="https://www.youtube.com/watch?v=jF7bgoVPBkE">Video Showcase</a>
+
 ## Installation
 Go to <a href="https://github.com/andrii-malakhovtsev/sea-battle-game-winforms/releases">Releases</a>, choose the latest release and click the "sea-battle.exe" or
 just click <a href="https://github.com/andrii-malakhovtsev/sea-battle-game-winforms/releases/download/v1.3/sea-battle.exe">here</a>.
